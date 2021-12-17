@@ -11,7 +11,7 @@
 1. Установить PostgreSQL сервер любой версии.
  
 <p align="center">
-  <img src="/home/vila/Labs_SecWeb/lab02/fotos/1.jpg" />
+  <img src="https://github.com/vilafe/Labs_SecWeb/blob/main/lab02/fotos/1.jpg" />
 </p>
 
 2. Создать БД lib.
