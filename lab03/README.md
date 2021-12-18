@@ -60,10 +60,6 @@
 Пейлоад добавился на страницу.
 
 <p align="center">
-  <img src="https://github.com/gk-j2/DevSecWeb/blob/main/ex03/pictures/8.2.png" />
-</p>
-
-<p align="center">
   <img src="https://github.com/vilafe/Labs_SecWeb/blob/main/lab03/fotos/8.jpg" />
 </p>
 9. Написать отчёт с описанием найденных уязвимости и примерами их эксплуатации
